@@ -1,13 +1,6 @@
 /***************************************************************************************************
 Program: CPUSchedule.java
-Course: TSN2101 Operating System
-Year: 2016/17 Trimester 1
-Group Leader  : ARSYAD BIN ANUAR 1142700937  syaads@yahoo.com.my   019-3456645
-Group Member 1: AHMAD NAZMI BIN BAHRUDDIN 1142700845 ahmadnazmi14@yahoo.com   011-23744228
-Group Member 2: AKMAL SAFWAN BIN AB AZIZ 1142701017  akmalsafwanabaziz@gmail.com   017-3418230
-Group Member 3: MUHAMMAD SYAWALUDIN ANAS YUSOF 1142700818	1142700818@student.mmu.edu.my	019-6555237
-Lecture Section: TC03
-***************************************************************************************************/ 
+***************************************************************************************************/
 
 import java.util.*;
 
